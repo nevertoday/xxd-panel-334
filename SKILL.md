@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-334
-description: "Create XXD Panel 334 raster artwork: a faithful photograph paired with one neo-classical psychedelic bookplate, a center emblem inside an ornamental ring. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-334 or asks for this 神话书票 style."
+description: "XXD Panel 334｜Mythic Bookplate: keeps the photo and turns its subject into one small personal myth symbol in the manner of an old bookplate — a flat, paper-cut silhouette set at the centre, ringed by curling plants, stars, suns, waves, vines or a geometric border drawn in the same shape language, with controlled symmetry, gentle radial rhythm and generous whitespace, printed in a few spot colours like orange-red, deep magenta, ivory, ink black, mustard and forest green with slight hand-printed unevenness, plus a small classical serif or inscribed word, short phrase or chapter number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-334 or asks for a bookplate, ex libris, mythic emblem or ornamental seal from a photo."
 ---
 
 # XXD Panel 334

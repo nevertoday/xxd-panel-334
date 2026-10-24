@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 334｜Mythic Bookplate: keeps the photo and turns its subject into one small personal myth symbol in the manner of an old bookplate — a flat, paper-cut silhouette set at the centre, ringed by curling plants, stars, suns, waves, vines or a geometric border drawn in the same shape language, with controlled symmetry, gentle radial rhythm and generous whitespace, printed in a few spot colours like orange-red, deep magenta, ivory, ink black, mustard and forest green with slight hand-printed unevenness, plus a small classical serif or inscribed word, short phrase or chapter number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-334 or asks for a bookplate, ex libris, mythic emblem or ornamental seal from a photo.",
+  "short_description": "神话书票：把照片主体收成居中的剪影符号，四周用同一套纹样环绕的复古藏书票",
+  "zh-CN": {
+    "name": "神话书票",
+    "tagline": "把照片主体收成一张中心一枚符号、四周纹样环绕的神话藏书票。",
+    "look": "照片里的主体被简化成平面剪影，人物、动物或植物都只靠轮廓、姿态和比例来认，放在画面正中。四周围着少量卷草、星辰、太阳、波浪、藤蔓或几何边饰，和主体用同一套圆、弧线和流动曲线画成，大体对称、略带放射节奏，外围留白充足。颜色只有几种像丝网印刷的专色，如复古橙红、深洋红、象牙白、墨黑、芥末黄和森林绿，边缘带一点手工印刷的误差。可以有一行很小的古典衬线字、短句、章节编号或手写铭文。",
+    "traits": [
+      "新古典符号",
+      "迷幻装饰",
+      "中心印章",
+      "书籍藏书票",
+      "统一语法"
+    ],
+    "good": [
+      "主体单一、轮廓好认的照片：一只猫、一只鹿、一个侧脸、一枝花",
+      "带一点故事或象征意味的画面：抱着书的人、月下的狗、窗台上的鸟",
+      "想做成藏书票、书封小图、私人印章或纪念卡片的照片"
+    ],
+    "poor": [
+      "需要多人或完整场景同时出现的照片，挤不进一枚中心符号",
+      "要求写实还原、清楚五官或产品细节的图片",
+      "想要企业 Logo、极简商业标志、卡通头像或 3D、金属效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Mythic Bookplate",
+    "tagline": "Turns the subject of your photo into a mythic bookplate: one central symbol ringed by matching ornament.",
+    "look": "The subject is simplified into a flat silhouette, a person, animal or plant recognised only by outline, pose and proportion, and placed at the centre. A few curling leaves, stars, suns, waves, vines or a geometric border surround it, drawn with the same circles, arcs and flowing curves as the subject, broadly symmetrical with a slight radial rhythm and plenty of empty space around the edge. Only a few spot colours appear, as in screen printing, such as orange-red, deep magenta, ivory, ink black, mustard and forest green, with edges that wander slightly like hand printing. A very small classical serif word, short phrase, chapter number or hand-lettered inscription may appear.",
+    "traits": [
+      "Neoclassical symbol",
+      "Psychedelic ornament",
+      "Central seal",
+      "Bookplate",
+      "Unified shape grammar"
+    ],
+    "good": [
+      "Photos with one subject and a clear outline: a cat, a deer, a profile, a single flower",
+      "Images with a hint of story or symbolism: someone holding a book, a dog under the moon, a bird on a windowsill",
+      "Photos you want as a bookplate, small book-cover image, personal seal or keepsake card"
+    ],
+    "poor": [
+      "Photos that need several people or a whole scene, which will not fit one central symbol",
+      "Images that must keep realistic detail, clear facial features or product details",
+      "Requests for a corporate logo, minimal commercial mark, cartoon avatar, 3D or metallic finish"
+    ]
+  },
+  "ja": {
+    "name": "神話の蔵書票",
+    "tagline": "写真の主役を、中央の記号を同じ文様が取り囲む神話的な蔵書票にします。",
+    "look": "主役は平面的なシルエットに簡略化され、人物も動物も植物も輪郭、姿勢、比率だけで見分けられる形になって画面の中央に置かれます。周りには唐草、星、太陽、波、蔓、幾何学的な縁飾りが少しだけ配され、主役と同じ円、弧、流れる曲線で描かれます。おおむね左右対称で放射状のリズムがあり、外側には十分な余白が残ります。色はシルクスクリーンの特色のような数色だけで、レトロな朱赤、深いマゼンタ、アイボリー、墨色、マスタード、森の緑などを使い、縁には手刷りらしいわずかなずれがあります。小さなクラシックなセリフ体の文字、短いフレーズ、章番号、手書きの銘文が添えられることもあります。",
+    "traits": [
+      "新古典的な記号",
+      "サイケデリックな装飾",
+      "中央の印章",
+      "蔵書票",
+      "統一された造形"
+    ],
+    "good": [
+      "主役が一つで輪郭がわかりやすい写真：猫、鹿、横顔、一輪の花",
+      "物語や象徴を感じさせる場面：本を抱く人、月の下の犬、窓辺の鳥",
+      "蔵書票、本の表紙の小さな絵、個人の印章、記念カードにしたい写真"
+    ],
+    "poor": [
+      "複数の人や場面全体を入れたい写真（中央の一つの記号に収まりません）",
+      "写実的な再現、はっきりした顔立ち、商品の細部が必要な画像",
+      "企業ロゴ、ミニマルな商業マーク、キャラクターアイコン、3D や金属の質感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "신화 장서표",
+    "tagline": "사진 속 주인공을 가운데 기호 하나와 이를 둘러싼 같은 문양으로 된 신화풍 장서표로 바꿉니다.",
+    "look": "주인공은 평면 실루엣으로 단순해져, 사람이든 동물이든 식물이든 윤곽, 자세, 비율만으로 알아보게 되고 화면 한가운데 놓입니다. 주변에는 덩굴무늬, 별, 해, 물결, 넝쿨, 기하학 테두리가 조금 둘러지는데, 주인공과 같은 원, 호, 흐르는 곡선으로 그려집니다. 대체로 대칭이고 살짝 방사형 리듬이 있으며 바깥쪽에는 여백이 넉넉합니다. 색은 실크스크린 별색 같은 몇 가지뿐으로 레트로 주홍, 짙은 마젠타, 아이보리, 먹색, 머스터드, 숲색 등을 쓰고, 가장자리에는 손으로 찍은 듯한 작은 어긋남이 있습니다. 아주 작은 고전 세리프 글자, 짧은 문구, 장 번호, 손글씨 명문이 들어갈 수 있습니다.",
+    "traits": [
+      "신고전 기호",
+      "사이키델릭 장식",
+      "중앙 인장",
+      "장서표",
+      "통일된 조형"
+    ],
+    "good": [
+      "주인공이 하나이고 윤곽이 분명한 사진: 고양이, 사슴, 옆얼굴, 꽃 한 송이",
+      "이야기나 상징이 느껴지는 장면: 책을 안은 사람, 달 아래 강아지, 창턱의 새",
+      "장서표, 책 표지 속 작은 그림, 개인 인장, 기념 카드로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "여러 사람이나 장면 전체가 함께 나와야 하는 사진(가운데 기호 하나에 담기지 않습니다)",
+      "사실적인 재현, 또렷한 이목구비, 제품 세부가 필요한 이미지",
+      "기업 로고, 미니멀 상업 마크, 캐릭터 프로필, 3D나 금속 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم الكتاب الأسطوري",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى ختم كتاب أسطوري: رمز واحد في الوسط تحيط به زخارف من الطراز نفسه.",
+    "look": "يُبسَّط العنصر إلى ظلّ مسطّح، فيُعرف الشخص أو الحيوان أو النبات من خطوطه الخارجية ووضعيته ونِسَبه فقط، ويوضع في وسط الصورة. تحيط به أوراق ملتفّة أو نجوم أو شموس أو أمواج أو كروم أو إطار هندسي، مرسومة بالدوائر والأقواس والمنحنيات الانسيابية نفسها، في تناظر تقريبي مع إيقاع شعاعي خفيف وفراغ وافر عند الأطراف. لا تظهر إلا ألوان خاصة قليلة كما في الطباعة الحريرية، مثل البرتقالي المحمرّ والأرجواني الداكن والعاجي والأسود الحبري والخردلي والأخضر الغابي، مع حواف تنحرف قليلاً كأنها مطبوعة باليد. قد تظهر كلمة صغيرة جداً بخط كلاسيكي مذيّل أو عبارة قصيرة أو رقم فصل أو نقش بخط اليد.",
+    "traits": [
+      "رمز كلاسيكي جديد",
+      "زخرفة سايكيديلية",
+      "ختم مركزي",
+      "ختم مكتبة",
+      "لغة أشكال موحّدة"
+    ],
+    "good": [
+      "صور فيها عنصر واحد بخطوط خارجية واضحة: قطة، غزال، وجه جانبي، زهرة واحدة",
+      "مشاهد فيها لمسة حكاية أو رمز: شخص يحتضن كتاباً، كلب تحت القمر، طائر على حافة نافذة",
+      "صور تريدها ختماً لمكتبتك أو رسماً صغيراً لغلاف كتاب أو ختماً شخصياً أو بطاقة تذكارية"
+    ],
+    "poor": [
+      "صور تحتاج إلى عدة أشخاص أو مشهد كامل، فلا تتسع لها علامة مركزية واحدة",
+      "صور يجب أن تحتفظ بتفاصيل واقعية أو ملامح وجه واضحة أو تفاصيل منتج",
+      "طلب شعار شركة أو علامة تجارية بسيطة أو صورة كرتونية أو مظهر ثلاثي الأبعاد أو معدني"
+    ]
+  }
+}
